@@ -1,0 +1,116 @@
+.container>h2{
+    text-align: center;
+    font-weight: lighter;
+    margin-top: 50px;
+}
+.container>h1{
+    text-align: center;
+    font-weight: bold;    
+}
+.container>p{
+    text-align: center;
+    font-weight: lighter;
+}
+.box-t{
+    width: 200px;
+    height: 200px;
+    border-top: 2px solid red;
+    border-radius: 5px;
+    position: relative;
+    left: 600px;
+    box-shadow: 5px 1px 30px 10px #f2f2f2;
+}
+.box-t>h4{
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.box-t>p{
+    margin-left: 10px;
+    margin-top: 15px;
+    font-size: small;
+}
+.box-t>img{
+    width: 30px;
+    height: 30px;
+    margin-top: 40px;
+    margin-left: 150px;
+}
+.box-l{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 350px;
+    border-top: 2px solid #00cccc;
+    border-radius: 5px;
+    box-shadow: 5px 1px 30px 10px #f2f2f2;
+}
+.box-l>h4{
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.box-l>p{
+    margin-left: 10px;
+    margin-top: 15px;
+    font-size: small;
+}
+.box-l>img{
+    width: 30px;
+    height: 30px;
+    margin-top: 40px;
+    margin-left: 150px;
+}
+.box-r{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 850px;
+    border-top: 2px solid #006666;
+    border-radius: 5px;
+    box-shadow: 5px 1px 30px 10px #f2f2f2;
+}
+.box-r>h4{
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.box-r>p{
+    margin-left: 10px;
+    margin-top: 15px;
+    font-size: small;
+}
+.box-r>img{
+    width: 30px;
+    height: 30px;
+    margin-top: 40px;
+    margin-left: 150px;
+}
+.box-b{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 600px;
+    border-top: 2px solid yellow;
+    border-radius: 5px;
+    box-shadow: 5px 1px 30px 10px #f2f2f2;
+}
+.box-b>h4{
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.box-b>p{
+    margin-left: 10px;
+    margin-top: 15px;
+    font-size: small;
+}
+.box-b>img{
+    width: 30px;
+    height: 30px;
+    margin-top: 40px;
+    margin-left: 150px;
+} 
+
+/* Extra small devices (phones, 600px and down) */
+@media (max-width: 600px) {
+
+    
+
+}
